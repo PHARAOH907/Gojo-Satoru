@@ -21,7 +21,7 @@ global.APIKeys = {
 //customize settings\\
 global.owner = ['917909112566,919605463225']
 global.premium = ['917909112566,919605463225']
-global.ownernomer = '917909112566,919605463225'
+global.ownernomer = ['917909112566,919605463225']
 global.ownername = 'Aɗøηїşˣˣˣ'
 global.botname = '×͜×'
 global.footer = '©RaizenInc.'
